@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ChatAsync", "ChatAsync\ChatAsync.shproj", "{0DF087D7-BAEF-4206-B402-92A5D8331340}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		ChatAsync\ChatAsync.projitems*{0df087d7-baef-4206-b402-92a5d8331340}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2061E114-6447-4583-90B9-F32E9AD4FDBF}
+	EndGlobalSection
+EndGlobal
